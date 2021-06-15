@@ -1,0 +1,148 @@
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\EntityFramework.dll
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\EntityFramework.xml
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CopyComplete
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Graphic.resources
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.MainForm.resources
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.AddForm.resources
+C:\Users\student\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.InfoForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\EntityFramework.dll
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\EntityFramework.xml
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.MainForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.AddForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.InfoForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Graphic.resources
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CopyComplete
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+C:\Users\sasha\Downloads\Telegram Desktop\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.dll
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.xml
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csprojAssemblyReference.cache
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp10.Form1.resources
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.MainForm.resources
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.AddForm.resources
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.InfoForm.resources
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Graphic.resources
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CopyComplete
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+E:\шаг\РПО 12 курсовой проект .NET\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.MainForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.AddForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.InfoForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Graphic.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.dll
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.xml
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CopyComplete
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.dll
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.xml
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csprojAssemblyReference.cache
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.MainForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.AddForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.InfoForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Graphic.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CopyComplete
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+C:\Users\sasha\Downloads\Telegram Desktop\курсовой проект оконча\курсовой проект оконч\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\bin\Debug\EntityFramework.dll
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\bin\Debug\EntityFramework.xml
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csprojAssemblyReference.cache
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp10.Form1.resources
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.MainForm.resources
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.AddForm.resources
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.InfoForm.resources
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Graphic.resources
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CopyComplete
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+E:\шаг\РПО 12 курсовой проект .NET\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\bin\Debug\EntityFramework.dll
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\bin\Debug\EntityFramework.xml
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.MainForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.AddForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.InfoForm.resources
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Graphic.resources
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CopyComplete
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+C:\Users\sasha\Downloads\Telegram Desktop\финальный проект\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csprojAssemblyReference.cache
+E:\github\deffectation\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+E:\github\deffectation\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+E:\github\deffectation\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+E:\github\deffectation\WindowsFormsApp25\bin\Debug\EntityFramework.dll
+E:\github\deffectation\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.dll
+E:\github\deffectation\WindowsFormsApp25\bin\Debug\EntityFramework.xml
+E:\github\deffectation\WindowsFormsApp25\bin\Debug\EntityFramework.SqlServer.xml
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csprojAssemblyReference.cache
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp10.Form1.resources
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.MainForm.resources
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.AddForm.resources
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.InfoForm.resources
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Graphic.resources
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CopyComplete
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+E:\github\deffectation\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
